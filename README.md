@@ -4,7 +4,7 @@ This repo contains a curated collection of my favorite/most used/useful bioinfor
 
 I have also tried to credit scripts/code that are not my own to their rightful creators. If I have used code that you have generated and would like credit for please feel free to message me and I will fix it.
 
-#Links
+# Links
 
 A list of links to resouces/documents that I find useful
 
