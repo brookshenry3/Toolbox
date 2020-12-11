@@ -14,11 +14,13 @@ A list of links to resouces/documents that I find useful
  * [How to install software from a Tarball in Linux](https://www.maketecheasier.com/install-software-from-a-tarball-in-linux/) 
  * [Linux FTP commands](https://linuxize.com/post/how-to-use-linux-ftp-command-to-transfer-files/) 
  * [Using Rsync](https://linuxconfig.org/examples-on-how-to-use-rsync-for-local-and-remote-data-backups-and-synchonization)
+ * [Uncomplicated Firewall](https://wiki.ubuntu.com/UncomplicatedFirewall)
 
 ## Bash/Terminal/Command Line
 
  * [AWK is Awesome](https://evodify.com/awk-is-awesome/)
  * [The Bash Guide](https://guide.bash.academy/)
+ * [Bash vs. Zsh](https://linuxhint.com/differences_between_bash_zsh/)
 
 ## Git/GitHub
 
@@ -33,10 +35,15 @@ A list of links to resouces/documents that I find useful
  * [realpython.com](https://realpython.com/)
  * [Pysam docs](https://pysam.readthedocs.io/en/latest/index.html)
  * [scikit-learn docs](https://scikit-learn.org/stable/index.html)
- * 
-
+ * [ROSALIND](http://rosalind.info/problems/locations/)
 
 ## R
+
+ * [Computational Genomics in R](https://compgenomr.github.io/book/)
+
+## Other Languages
+
+* [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql#sql-basics)
 
 ## Misc.
 
@@ -48,3 +55,9 @@ A list of links to resouces/documents that I find useful
  * [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary#s)
  * [Google Style Guides](https://google.github.io/styleguide/)
  * [How to Choose A Reference Genome](https://genestack.com/blog/2016/07/12/choosing-a-reference-genome/)
+ * [Bioinformatics Stack Exchange](https://bioinformatics.stackexchange.com/)
+ * [BioStars](https://www.biostars.org/)
+ * [Top 20 free Data Science, ML and AI MOOCs on the Internet](https://towardsdatascience.com/top-20-free-data-science-ml-and-ai-moocs-on-the-internet-4036bd0aac12)
+ * [AWS tutorials](https://aws.amazon.com/getting-started/hands-on/)
+ 
+ 
