@@ -1,0 +1,15 @@
+#PBS -N #Job name
+#PBS -r n
+#PBS -l mem=XXGB,walltime=HH:MM:SS,ncpus=N,ngpus=N
+#PBS -q #Submission queue
+#PBS -m ae
+#PBS -M email
+
+#Load required modules
+module load XXXXX/X.X
+
+#Set wd
+cd path/to/workingdirectory
+
+#Commands
+do something here
